@@ -1,5 +1,5 @@
-# service-component-framework
-The Service Component Framework is a Spring-based service component specification.
+# Service Component Framework
+The Service Component Framework is a set of specifications and default implementations of Spring-based service components.
 The core component is Business Service component.
 Here are some relative components inside this artifact:
 - Security Context component: define the security relative data structure.
